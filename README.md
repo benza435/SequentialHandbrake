@@ -6,7 +6,7 @@ Joystick
 HX711_ADC-1.2.12
 
 POA:
-Read load cell values and convert to joystick axis
-Read limit switch presses and send as joystick buttons
-Create some calibration function on startup
+* Read load cell values and convert to joystick axis
+* Read limit switch presses and send as joystick buttons
+* Create some calibration function on startup
 
